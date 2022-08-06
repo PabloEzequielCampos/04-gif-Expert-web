@@ -14,7 +14,7 @@ export const GifExpertApp = () => {
     return (
         <>
 
-            <h1>GifExpertApp</h1>
+            <h1>REACT - Gif Web App</h1>
 
     
             <AddCategory 
