@@ -1,5 +1,5 @@
     
 #           GIF EXPERT WEB APP
 
-# https://gif-expert-web.netlify.app/
+# https://react-gif-web-app.netlify.app/
 
